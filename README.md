@@ -3,10 +3,10 @@
 🚀 Shadowrocket 免费平替合集：Clash.MI & V2Box 超简单使用指南（适合新手）
 
 <p align="center">
-<img src="https://img.shields.io/badge/Clash.MI-Free-brightgreen">
-<img src="https://img.shields.io/badge/V2Box-Free-blue">
-<img src="https://img.shields.io/badge/iOS-App-orange">
+<img width="404" height="305" alt="企业微信截图_20251203170911" src="https://github.com/user-attachments/assets/b1d62d24-731c-4de9-a3fc-12a4f28955b9" />
 </p>
+
+
 
 如果你正在寻找 Shadowrocket（小火箭）的免费替代品，那么 Clash.MI 和 V2Box 是目前 iOS 上最值得推荐的两款工具。
 本指南将带你 零基础快速上手，并附上优质代理推荐和详细操作步骤！
